@@ -14,3 +14,5 @@ men Ekstraopgavene er svært.
 ## Niveau_2_01
 
 opgaven er okay, men det først jeg har burgt if statment, men det virker ikke, bage efter jeg lavt med for loop
+
+## Niveau_2_02
