@@ -6,7 +6,7 @@ counterContainers.forEach((counterContainer) => {
 	const textFinder = counterContainer.querySelector(".text-count");
 	const priceFinder = counterContainer.querySelector(".price");
 	const totalPriceFinder = counterContainer.querySelector(".total");
-
+	//this function will count up the button
 	function calculateTotalPrice() {
 		let price = Number(priceFinder.textContent);
 		let countUp = Number(textFinder.textContent);
